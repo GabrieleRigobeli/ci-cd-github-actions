@@ -1,0 +1,14 @@
+# 🚀 CI/CD com GitHub Actions
+
+Projeto criado para demonstrar uma pipeline CI/CD utilizando GitHub Actions.
+
+## 🛠️ O que esse projeto faz
+- Executa pipeline automaticamente a cada push
+- Build de imagem Docker
+- Execução de testes simulados
+- Simulação de deploy
+
+## 💡 Tecnologias
+- GitHub Actions
+- Docker
+- HTML
